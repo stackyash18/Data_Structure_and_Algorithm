@@ -49,4 +49,8 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/0283-move-zeroes) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
