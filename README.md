@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/0643-maximum-average-subarray-i) |
 ## Binary Search
 |  |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/0217-contains-duplicate) |
+| [0424-longest-repeating-character-replacement](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 ## Sorting
 |  |
 | ------- |
@@ -55,4 +57,8 @@
 |  |
 | ------- |
 | [2235-add-two-integers](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/2235-add-two-integers) |
+## String
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
