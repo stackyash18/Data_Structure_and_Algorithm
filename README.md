@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/0001-two-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/0217-contains-duplicate) |
@@ -35,6 +36,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 ## Sorting
