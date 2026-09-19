@@ -10,6 +10,7 @@
 | [0217-contains-duplicate](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/1004-max-consecutive-ones-iii) |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/0287-find-the-duplicate-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
@@ -61,6 +63,7 @@
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
@@ -70,4 +73,16 @@
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/0424-longest-repeating-character-replacement) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
