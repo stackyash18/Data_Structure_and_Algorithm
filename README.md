@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 ## Sorting
@@ -62,12 +63,14 @@
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0202-happy-number](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/0202-happy-number) |
 | [2235-add-two-integers](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/2235-add-two-integers) |
 ## String
 |  |
@@ -84,5 +87,6 @@
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
