@@ -15,7 +15,8 @@ class Solution {
 
         while(fast != 1) {
             slow = find(slow);
-            fast = find(find(fast));
+            fast = find(fast);
+            fast = find(fast);
 
             if(slow == fast && slow != 1) 
             {
