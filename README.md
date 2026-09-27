@@ -14,6 +14,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/1004-max-consecutive-ones-iii) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/1480-running-sum-of-1d-array) |
@@ -95,4 +96,8 @@
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 <!---LeetCode Topics End-->
