@@ -11,6 +11,7 @@
 | [0238-product-of-array-except-self](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/0287-find-the-duplicate-number) |
+| [0525-contiguous-array](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/0525-contiguous-array) |
 | [0643-maximum-average-subarray-i](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/1004-max-consecutive-ones-iii) |
@@ -38,6 +39,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/0525-contiguous-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
@@ -48,6 +50,7 @@
 | [0202-happy-number](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/0424-longest-repeating-character-replacement) |
+| [0525-contiguous-array](https://github.com/stackyash18/Data_Structure_and_Algorithm/tree/master/0525-contiguous-array) |
 ## Sorting
 |  |
 | ------- |
